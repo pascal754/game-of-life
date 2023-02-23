@@ -28,3 +28,7 @@ Version 17.4.0 Preview 1.0
 - Down arrow: decrease the speed
 
 - click the cell to filp the state (in pause mode)
+
+## Screenshot
+
+![screenshot](Screenshot.png)
