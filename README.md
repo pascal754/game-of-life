@@ -7,15 +7,15 @@
 ## Development tools
 
 - Microsoft Visual Studio Community 2022 (64-bit) - Preview
-Version 17.4.0 Preview 1.0
+Version 17.14.0 Preview 1.1
 
 - C++ Language Standard: Preview - Features from the Latest C++ Working Draft (/std:c++latest)
 
-- SFML 2.5.1#14 installed via vcpkg
+### vcpkg
 
-- Boost 1.79.0 installed via vcpkg
+- sfml:x64-windows 3.0.0
 
-- no boundary check for boost dynamic bitset operator[]
+- boost-dynamic-bitset:x64-windows 1.87.0
 
 ## Usage
 
