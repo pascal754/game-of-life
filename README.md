@@ -1,6 +1,4 @@
-# game-of-life
-
-## Conway's Game of Life using SFML
+# Conway's Game of Life using SFML
 
 ## Rules from wikipedia(https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
