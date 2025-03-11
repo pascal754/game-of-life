@@ -145,7 +145,7 @@
   <ItemGroup>
     <ClCompile Include="game_of_life.cpp" />
     <ClCompile Include="game_of_life.ixx" />
-    <ClCompile Include="game_of_life04.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
